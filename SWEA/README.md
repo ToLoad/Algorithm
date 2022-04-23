@@ -5,3 +5,5 @@
 [SWEA 1244 : 최대 상금](https://github.com/ToLoad/Algorithm/tree/main/SWEA/1244)
 
 [SWEA 2806 : N-Queen](https://github.com/ToLoad/Algorithm/tree/main/SWEA/2806)
+
+[SWEA 3752 : 가능한 시험 점수](https://github.com/ToLoad/Algorithm/tree/main/SWEA/3752)
