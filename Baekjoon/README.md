@@ -9,3 +9,5 @@
 [Baekjoon : 괄호 추가하기](https://github.com/ToLoad/Algorithm/tree/main/Baekjoon/16637)
 
 [Baekjoon : ⚾](https://github.com/ToLoad/Algorithm/tree/main/Baekjoon/17281)
+
+[Baekjoon : 좋다](https://github.com/ToLoad/Algorithm/tree/main/Baekjoon/1253)
