@@ -11,3 +11,5 @@
 [Baekjoon : ⚾](https://github.com/ToLoad/Algorithm/tree/main/Baekjoon/17281)
 
 [Baekjoon : 좋다](https://github.com/ToLoad/Algorithm/tree/main/Baekjoon/1253)
+
+[Baekjoon : A와 B 2](https://github.com/ToLoad/Algorithm/tree/main/Baekjoon/12919)
