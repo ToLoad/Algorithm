@@ -1,3 +1,5 @@
+package Programmers.피로도;
+
 class Solution {
     static int[] result;
     static boolean[] visited;
