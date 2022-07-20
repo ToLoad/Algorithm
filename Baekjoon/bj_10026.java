@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Main {
+public class bj_10026 {
 	static int dr[] = {-1, 1, 0, 0};
 	static int dc[] = {0, 0, -1, 1};
 

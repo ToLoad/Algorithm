@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class Main {
+public class bj_1525 {
     static int[] dr = {-1, 0, 1, 0};
     static int[] dc = {0, -1, 0, 1};
 

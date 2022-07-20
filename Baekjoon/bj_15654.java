@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Main {
+public class bj_15654 {
     static boolean[] visited;
     static int[] result;
     static int[] array;

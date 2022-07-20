@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main {
+public class bj_17281 {
     static int N;           // 이닝 수 
     static int[][] players; // 이닝당 플레이어 결과
     static int[] order;     // 타순

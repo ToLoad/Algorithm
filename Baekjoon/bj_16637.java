@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
-public class Main {
+public class bj_16637 {
     static ArrayList<Integer> numbers;
     static ArrayList<Character> operators;
 

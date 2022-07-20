@@ -1,17 +1,17 @@
-[Baekjoon : 구간 합 구하기 4](https://github.com/ToLoad/Algorithm/tree/main/Baekjoon/11659)
+[Baekjoon_11659 : 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
 
-[Baekjoon : N과 M (5)](https://github.com/ToLoad/Algorithm/tree/main/Baekjoon/15654)
+[Baekjoon_15654 : N과 M (5)](https://www.acmicpc.net/problem/15654)
 
-[Baekjoon : N과 M (6)](https://github.com/ToLoad/Algorithm/tree/main/Baekjoon/15655)
+[Baekjoon_15655 : N과 M (6)](https://www.acmicpc.net/problem/15655)
 
-[Baekjoon : 인구이동](https://github.com/ToLoad/Algorithm/tree/main/Baekjoon/16234)
+[Baekjoon_16234 : 인구이동](https://www.acmicpc.net/problem/16234)
 
-[Baekjoon : 괄호 추가하기](https://github.com/ToLoad/Algorithm/tree/main/Baekjoon/16637)
+[Baekjoon_16637 : 괄호 추가하기](https://www.acmicpc.net/problem/16637)
 
-[Baekjoon : ⚾](https://github.com/ToLoad/Algorithm/tree/main/Baekjoon/17281)
+[Baekjoon_17281 : ⚾](https://www.acmicpc.net/problem/17281)
 
-[Baekjoon : 좋다](https://github.com/ToLoad/Algorithm/tree/main/Baekjoon/1253)
+[Baekjoon_1253 : 좋다](https://www.acmicpc.net/problem/1253)
 
-[Baekjoon : A와 B 2](https://github.com/ToLoad/Algorithm/tree/main/Baekjoon/12919)
+[Baekjoon_12919 : A와 B 2](https://www.acmicpc.net/problem/12919)
 
-[Baekjoon : 마인크래프트](https://github.com/ToLoad/Algorithm/tree/main/Baekjoon/18111)
+[Baekjoon_18111 : 마인크래프트](https://www.acmicpc.net/problem/18111)
