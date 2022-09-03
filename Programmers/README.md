@@ -13,3 +13,5 @@
 [Programmers : 조이스틱](https://github.com/ToLoad/Algorithm/tree/main/Programmers/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1)
 
 [Programmers : 게임 맵 최단거리](https://github.com/ToLoad/Algorithm/tree/main/Programmers/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC)
+
+[Programmers : 등산코스 정하기](https://github.com/ToLoad/Algorithm/tree/main/Programmers/%EB%93%B1%EC%82%B0%EC%BD%94%EC%8A%A4%20%EC%A0%95%ED%95%98%EA%B8%B0)
