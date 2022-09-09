@@ -1,3 +1,5 @@
+// https://www.codetree.ai/missions/2/problems/move-to-max-adjacent-cell-simultaneously/description
+
 import java.util.*;
 import java.io.*;
 

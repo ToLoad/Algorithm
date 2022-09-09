@@ -1,3 +1,5 @@
+// https://www.codetree.ai/missions/2/problems/collision-experiment-with-wall/description
+
 import java.util.*;
 import java.io.*;
 
