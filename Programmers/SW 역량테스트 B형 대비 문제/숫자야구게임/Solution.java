@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 class Solution {
@@ -166,11 +167,14 @@ class UserSolution {
 		for (int i = 0; i < dataCnt; i++) { // 검증된 숫자 목록만큼 반복
 			int strike = 0;
 			int ball = 0;
+			System.out.println(Arrays.toString(failData[i]));
+
 
 			for (int j = 0; j < 4; j++) {
 				if (failData[i][j] == num[j]) strike++;
 				else if (checkNum[failData[i][j]]) ball++;
 			}
+
 
 			/* 
 			현재 찾은 숫자를 검증된 숫자를 기반으로 비교해서 스트라이크 볼이 일치한다면 가능성이 있음.
