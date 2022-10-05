@@ -1,2 +1,9 @@
 .vscode/
 test/
+
+# .vscode/settings.json
+# {
+#     "java.project.sourcePaths": ["test"]
+# }
+
+# test/Main.java
