@@ -19,3 +19,5 @@
 [Programmers : 다트 게임](https://github.com/ToLoad/Algorithm/tree/main/Programmers/%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84)
 
 [Programmers : 3진법 뒤집기](3진법%20뒤집기)
+
+[Programmers : 신고 결과 받기](%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0/)
