@@ -36,21 +36,21 @@ public class bj_17396 {
 		Arrays.fill(dijk, Long.MAX_VALUE);
 
 		PriorityQueue<Champ> q = new PriorityQueue<>();
-		boolean[] visited = new boolean[n];
 		dijk[0] = 0;
 		q.offer(new Champ(0, 0));
 
 		while (!q.isEmpty()) {
 			Champ champ = q.poll();
-			if (visited[champ.position]) continue;
-			visited[champ.position] = true;
+
+			// 현재 걸린 시간이 최소 시간보다 크다면 굳이 또 탐색할 필요 없음
+			if (dijk[champ.position] < champ.time) continue;
 
 			for (int i = 0; i < bifuList[champ.position].size(); i++) {
 				Champ next = bifuList[champ.position].get(i);
 
 				// 더 빠르게 접근이 가능하다면
 				if (dijk[next.position] > champ.time + next.time) {
-					// 넥서스 이거나 시야에 보이지 않을 때
+					// 넥서스 이거나 시야에 보이지 않을 때만 이동 가능
 					if (next.position == n - 1 || !isSaw[next.position]) {
 						dijk[next.position] = champ.time + next.time;
 						q.offer(new Champ(next.position, dijk[next.position]));
