@@ -31,3 +31,5 @@
 [Baekjoon_1283 : 단축키 지정](https://www.acmicpc.net/problem/1283)
 
 [Baekjoon_4485 : 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)
+
+[Baekjoon_1189 : 컴백홈](https://www.acmicpc.net/problem/1189)
