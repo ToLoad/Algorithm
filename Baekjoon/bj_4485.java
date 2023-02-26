@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
-public class Main {
+public class bj_4485 {
 	static int[] dr = {0, 0, -1, 1};
 	static int[] dc = {-1, 1, 0, 0};
 
