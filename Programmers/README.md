@@ -27,5 +27,3 @@
 [Programmers : 할인 행사](할인%20행사)
 
 [Programmers : 문자열 나누기](문자열%20나누기)
-
-[Programmers : 이모티콘 할인행사](%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98%20%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC/)
