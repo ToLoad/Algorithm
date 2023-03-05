@@ -35,3 +35,5 @@
 [Baekjoon_1189 : 컴백홈](https://www.acmicpc.net/problem/1189)
 
 [Baekjoon_14719 : 빗물](https://www.acmicpc.net/problem/14719)
+
+[Baekjoon_2146 : 다리 만들기](https://www.acmicpc.net/problem/2146)
