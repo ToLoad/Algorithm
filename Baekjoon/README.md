@@ -41,3 +41,5 @@
 [Baekjoon_16197 : 두 동전](https://www.acmicpc.net/problem/16197)
 
 [Baekjoon_15683 : 감시](https://www.acmicpc.net/problem/15683)
+
+[Baekjoon_2042 : 구간 합 구하기](https://www.acmicpc.net/problem/2042)
