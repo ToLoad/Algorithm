@@ -31,3 +31,5 @@
 [Programmers : 이모티콘 할인행사](%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98%20%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC/)
 
 [Programmers : 미로 탈출](%EB%AF%B8%EB%A1%9C%20%ED%83%88%EC%B6%9C/)
+
+[Programmers : 혼자서 하는 틱택토](%ED%98%BC%EC%9E%90%EC%84%9C%20%ED%95%98%EB%8A%94%20%ED%8B%B1%ED%83%9D%ED%86%A0/)
