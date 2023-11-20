@@ -45,3 +45,5 @@
 [Baekjoon_2042 : 구간 합 구하기](https://www.acmicpc.net/problem/2042)
 
 [Baekjoon_9205 : 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)
+
+[Baekjoon_19942 : 다이어트](https://www.acmicpc.net/problem/19942)
