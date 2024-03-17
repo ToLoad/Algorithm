@@ -47,3 +47,5 @@
 [Baekjoon_9205 : 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)
 
 [Baekjoon_19942 : 다이어트](https://www.acmicpc.net/problem/19942)
+
+[Baekjoon_1600 : 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)
