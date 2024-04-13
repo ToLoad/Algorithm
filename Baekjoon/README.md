@@ -49,3 +49,5 @@
 [Baekjoon_19942 : 다이어트](https://www.acmicpc.net/problem/19942)
 
 [Baekjoon_1600 : 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)
+
+[Baekjoon_1083 : 소트](https://www.acmicpc.net/problem/1083)
